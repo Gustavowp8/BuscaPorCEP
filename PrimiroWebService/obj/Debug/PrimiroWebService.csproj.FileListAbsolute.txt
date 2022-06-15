@@ -1,0 +1,10 @@
+C:\dev\PrimiroWebService\PrimiroWebService\obj\Debug\PrimiroWebService.csproj.AssemblyReference.cache
+C:\dev\PrimiroWebService\PrimiroWebService\obj\Debug\PrimiroWebService.Form1.resources
+C:\dev\PrimiroWebService\PrimiroWebService\obj\Debug\PrimiroWebService.Properties.Resources.resources
+C:\dev\PrimiroWebService\PrimiroWebService\obj\Debug\PrimiroWebService.csproj.GenerateResource.cache
+C:\dev\PrimiroWebService\PrimiroWebService\obj\Debug\PrimiroWebService.csproj.CoreCompileInputs.cache
+C:\dev\PrimiroWebService\PrimiroWebService\bin\Debug\PrimiroWebService.exe.config
+C:\dev\PrimiroWebService\PrimiroWebService\bin\Debug\PrimiroWebService.exe
+C:\dev\PrimiroWebService\PrimiroWebService\bin\Debug\PrimiroWebService.pdb
+C:\dev\PrimiroWebService\PrimiroWebService\obj\Debug\PrimiroWebService.exe
+C:\dev\PrimiroWebService\PrimiroWebService\obj\Debug\PrimiroWebService.pdb
